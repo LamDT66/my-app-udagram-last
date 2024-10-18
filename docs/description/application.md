@@ -1,0 +1,5 @@
+- **Node.js**: Version 14.15.1 or newer. Although older versions might function, it's recommended to use the latest LTS version.
+- **npm**: Version 10.8.1 or newer. While Yarn could be used, it hasn't been tested for this project.
+- **AWS CLI**: Version 2.
+- **RDS Database**: Running PostgreSQL.
+- **S3 Bucket**: For storing uploaded images.
